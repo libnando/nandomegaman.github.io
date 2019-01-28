@@ -13,11 +13,13 @@ Optamos por escolher uma atividade na qual eu (pai) efetuaria a leitura da hist�
 
 Um detalhe maravilhoso para mim foi antes de iniciar a leitura, sentir a animação daquelas crianças no simples momento em que eu disse: 
 
----
+```
 - Boa tarde!
+
 E, como um coral com muito fôlego as crianças responderam:
+
 - Boa taaaaaaaaaaardeeeeeeeeeeeeeeeee!
----
+```
 
 Isso pra mim foi um momento extremamente mágico. Ver e sentir a animação daqueles  pequenos, esperando por algo diferente que alimente o incrível mundo da imaginação, ali na frente dos seus olhos.
 
