@@ -43,4 +43,4 @@ No final da história, a árvore (história livro) voltava gerar frutos, logo, n
 
 Foi demais! Saímos leves da sala de aula. :)
 
-![fernanda sofia escola](/assets/posts/2019/01/41073131_1831910233589926_3232404949748940800_n.jpg)
+![fernanda sofia escola](/assets/images/posts/2019/01/41073131_1831910233589926_3232404949748940800_n.jpg)
