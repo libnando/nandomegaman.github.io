@@ -2,7 +2,7 @@
 layout: post
 title:  "Minha experiência kindle, breve análise"
 tags : [amazon, dicas, kindle, livros]
-date:  2015-11-13 22:00:00
+date:  2015-11-18 22:00:00
 ---
 
 Não sou um devorador de livros, mas sou um leitor assíduo. Cansado de ver meus livros não capa dura com orelhas, depreciando aos poucos e ocupando espaço físico, resolvi comprar um kindle.
