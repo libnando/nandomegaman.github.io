@@ -8,6 +8,14 @@
 	display:inline;
 }
 
+.post-excerpt img {
+	max-width: 100%;
+}
+
+.post-excerpt iframe{
+	display: none;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
