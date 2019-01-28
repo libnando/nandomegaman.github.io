@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "piloto..."
+title:  "Piloto..."
 date:  2015-11-08 10:18:00
 ---
 
