@@ -42,3 +42,5 @@ Voltando ao contexto, essa simples atividade lúdica que realizamos em sala de a
 No final da história, a árvore (história livro) voltava gerar frutos, logo, nossa adaptação para a "cena de dramaturgia" foi uma chuvinha fofa de balinhas iogurte! Os coleguinhas da filha ficaram super felizes, e mais, a minha filha ficou super contente com o resultado.
 
 Foi demais! Saímos leves da sala de aula. :)
+
+![fernanda sofia escola](/assets/posts/2019/01/41073131_1831910233589926_3232404949748940800_n.jpg)
