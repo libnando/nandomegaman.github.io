@@ -10,7 +10,7 @@ Como sou um frenético ouvinte de podcasts há vários anos já, faz pouco tempo
 
 Segue a primeira lista…
 
-# Filmes
+### Filmes
 
 - Istanbul United
 - Sicario: Terra de Ninguém
@@ -46,20 +46,20 @@ Segue a primeira lista…
 - Para Sempre Alice
 - O Último Imperador
 
-# Seriados
+### Seriados
 
 - Limitless
 - O Último Cara da Terra
 - The Office
 - Silicon Valey
 
-# Documentários
+### Documentários
 
 - Construindo um Império
 - Quem Matou o Carro Elétrico?
 - Césio 137
 
-# Livros
+### Livros
 
 - Nunca Almoce Sozinho
 - O imperador de todos os males
