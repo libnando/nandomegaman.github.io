@@ -27,7 +27,8 @@ Isso pra mim foi um momento extremamente mágico. Ver e sentir a animação daqu
 
 O universo infantil é maravilhoso! Que não percamos esse tempero vital nunca! Como dizia o Renato em "Pais e Filhos":
 
-...javascript
+```
+
 Você me diz que seus pais não lhe entendem
 Mas você não entende seus pais
 Você culpa seus pais por tudo
@@ -35,7 +36,8 @@ Isso é absurdo
 São crianças como você
 O que você vai ser
 Quando você crescer?
-...
+
+```
 
 Escrevendo isso lembrei também de uma cena incrível (triste inclusive) que ocorreu na vida real e foi interpretada por Will Smith e seu filho no filme "a procura da felicidade", a cena em questão, é o momento em que o pai sem teto e com um filho pequeno passam a noite em um banheiro de uma estação de metrô, na qual o pai alimenta o mundo criativo do filho dizendo pra ele que estavam em uma caverna com dinossauros lá fora protegendo eles, a criança vai longe e alimenta isso no universo dela, enquanto o pai apavorado segura a porta para demais pessoas não entrarem ali a noite toda. 
 
