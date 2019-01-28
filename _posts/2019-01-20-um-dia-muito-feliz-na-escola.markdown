@@ -47,14 +47,10 @@ Foi demais! Saímos leves da sala de aula. :)
 
 ![fernanda sofia escola](/assets/images/posts/2019/01/40683748_1831910480256568_6715306518348038144_n.jpg)
 
-![fernanda sofia escola]
-(/assets/images/posts/2019/01/40889500_1831910350256581_8215429227793612800_n.jpg)
+![fernanda sofia escola](/assets/images/posts/2019/01/40889500_1831910350256581_8215429227793612800_n.jpg)
 
-![fernanda sofia escola]
-(/assets/images/posts/2019/01/40920993_1831910543589895_936246121125117952_n.jpg)
+![fernanda sofia escola](/assets/images/posts/2019/01/40920993_1831910543589895_936246121125117952_n.jpg)
 
-![fernanda sofia escola]
-(/assets/images/posts/2019/01/40962721_1831910456923237_7416752597081522176_n.jpg)
+![fernanda sofia escola](/assets/images/posts/2019/01/40962721_1831910456923237_7416752597081522176_n.jpg)
 
-![fernanda sofia escola]
-(/assets/images/posts/2019/01/41039256_1831910503589899_652801403693039616_n.jpg)
+![fernanda sofia escola](/assets/images/posts/2019/01/41039256_1831910503589899_652801403693039616_n.jpg)
