@@ -5,6 +5,7 @@ tags : [amazon, dicas, kindle, livros]
 date:  2015-11-18 22:00:00
 ---
 
+
 Não sou um devorador de livros, mas sou um leitor assíduo. Cansado de ver meus livros não capa dura com orelhas, depreciando aos poucos e ocupando espaço físico, resolvi comprar um kindle.
 
 A aplicação é toda em java, o software é atualizado automaticamente, tem tamanho de um livro pequeno e leve, a bateria dura umas 3 semanas tranquilamente (modo ser humano sociável), a tela é totalmente anti-reflexo (coisa linda) e a capa se compra de forma separada (comprei também).

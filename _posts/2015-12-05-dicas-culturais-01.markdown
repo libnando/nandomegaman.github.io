@@ -5,6 +5,7 @@ tags : [cinema, cultura, dicas, documentário, literatura]
 date:  2015-12-05 22:00:00
 ---
 
+
 Como sou um frenético ouvinte de podcasts há vários anos já, faz pouco tempo que resolvi “favoritar” algumas citações e dicas que me interessei para posteriormente consumir.
 
 Segue a primeira lista…

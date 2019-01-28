@@ -5,6 +5,7 @@ date:   2019-01-20 23:18:00
 tags: [família, pais & filhos, escola]
 ---
 
+
 Recentemente (setembro de 2018) realizamos uma atividade em família conforme cronograma pautado pela escola. 
 
 Na atividade, cada família poderia escolher um tema livre para ser apresentado à turma.
