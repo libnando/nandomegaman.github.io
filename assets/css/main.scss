@@ -8,11 +8,13 @@
 	display:inline;
 }
 
+/*
 .post-excerpt img {
 	max-width: 100%;
 }
+*/
 
-.post-excerpt iframe{
+.post-excerpt img, .post-excerpt iframe{
 	display: none;
 }
 
