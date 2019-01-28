@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Fernando Rosa
+description: O mar arremessa as rochas, mas o tempo nos deixa pedras lapidadas.
+meta_description: "Fernando Rosa, Chapecó SC"
 
 markdown: kramdown
 highlighter: pygments
@@ -13,4 +13,4 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Fernando Rosa'
