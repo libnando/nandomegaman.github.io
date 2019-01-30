@@ -2,6 +2,7 @@ name: Fernando Rosa
 description: O mar arremessa as rochas, mas o tempo nos deixa pedras lapidadas
 meta_description: "Fernando Rosa, Chapecó SC"
 
+permalink: /:categories/:year/:month/:title:output_ext
 markdown: kramdown
 highlighter: rouge
 logo: false
