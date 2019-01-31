@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title: Fernando Rosa
 ---
 
 <img src="https://libnando.com/assets/images/fernandor.jpeg" alt="fernando rosa" style="margin-left:0; border-radius: 50%;" />
