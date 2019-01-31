@@ -5,7 +5,7 @@ title: About me
 
 <br />
 
-![moka café](/assets/images/fernandor.jpeg)
+<img src="https://libnando.com/assets/images/fernandor.jpeg" alt="fernando rosa">
 
 Desenvolvedor de software, libertário, pai, marido, apreciador de cafés e livros.
 
