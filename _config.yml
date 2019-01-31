@@ -7,8 +7,8 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: 'https://nandomegaman.github.io/'
-domain_name: 'https://nandomegaman.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://libnando.com'
+google_analytics: 'UA-3275109-13'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
