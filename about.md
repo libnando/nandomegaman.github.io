@@ -3,9 +3,7 @@ layout: page
 title: About me 
 ---
 
-<br />
-
-<img src="https://libnando.com/assets/images/fernandor.jpeg" alt="fernando rosa">
+<img src="https://libnando.com/assets/images/fernandor.jpeg" alt="fernando rosa" style="margin-left:0; border-radius: 50%;" />
 
 Desenvolvedor de software, libertário, pai, marido, apreciador de cafés e livros.
 
