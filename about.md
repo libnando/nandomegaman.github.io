@@ -3,6 +3,10 @@ layout: page
 title: About me 
 ---
 
+<br />
+
+![moka café](/assets/images/fernandor.jpeg)
+
 Desenvolvedor de software, libertário, pai, marido, apreciador de cafés e livros.
 
 **Redes Sociais**
