@@ -9,12 +9,16 @@ Olá, faz um tempinho que "brinquei" com promises js, mais específicamente com 
 
 ### Wtf, promises?
 
-A minha forma de explanar esse recurso é simples, uma promessa retorna algo resolvido ou não. Vou tentar abaixo via código mostrar a funcionalidade desse recurso simplório mas muito eficaz.
 
-Vou criar um exemplo simples para comprar itens em um supermercado.
+A minha forma de explanar esse recurso é simples, uma promessa retorna algo resolvido ou não e com processamento assíncrono. 
 
-Contextualizando juntamente com o critério citado acima, a função **_buySomething** é chamada sempre que preciso comprar algo. Ela retorna uma promessa de compra, que poderá ser efetivada ou não, o critério que utilizei ali foi simplismente o financeiro, se tem dinheiro compra o item (resolve), senão não irá comprar (reject).
+Vou tentar abaixo via código mostrar a funcionalidade desse recurso simplório mas muito eficaz.
 
+Por padrão uma promessa recebe 2 argumentos, o callback para resolução e outro para tratar a rejeição (erro) caso a promessa não for "cumprida".
+
+Não vou entrar nos inúmeros detalhes desse recurso, ao final do post vou deixar links que de forma técnica e bem específica explana todos detalhes do recurso.
+
+O exemplo abaixo tem por objetivo comprar itens de um supermercado.
 
 ```javascript
 
@@ -36,6 +40,8 @@ _buySomething = (val, itemName) => {
     };
 
 ```
+
+Contextualizando juntamente com o critério citado acima, a função **_buySomething** é chamada sempre que preciso comprar algo. Ela retorna uma promessa de compra, que poderá ser efetivada ou não, o critério que utilizei ali foi simplismente o financeiro, se tem dinheiro compra o item (resolve), senão não irá comprar (reject).
 
 Note que caso o custo do produto for maior que o dinheiro "em caixa" irá executar o callback **reject** passando uma mensagem de falha, caso contrário, por padrão executa o callback **resolve**;
 
@@ -93,3 +99,12 @@ você comprou água
 
 ```
 
+Legal né! o/
+
+Novos recursos nativos do ecmascript já está utilizando promises como retorno, como anteriormente citado api fetch e também cache api.
+
+Um exemplo bacana também pra testar promessas é consumindo requisições do nosso amigo eterno **XMLHttpRequest**, nesse exemplo <a target="_blank" href="https://github.com/mdn/js-examples/blob/master/promises-test/index.html">aqui</a> é simulado o carregamento de uma imagem de forma assíncrona. Recomendo dar uma olhada.
+
+Caso queira saber mais sobre promises, a <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise">mozilla</a> nunca decepciona. <a target="_blank" href="https://www.promisejs.org/">Aqui</a> também tem coisas legais sobre promises.
+
+Por hoje era isso amiguinhos.
