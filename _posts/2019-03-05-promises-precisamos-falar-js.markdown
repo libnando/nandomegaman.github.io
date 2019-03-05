@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nosso amiguinho Promises"
+title:  "Promises, precisamos falar sobre"
 date:   2019-03-05 23:18:00
 tags: [web, js, es6, javascript, promise]
 ---
