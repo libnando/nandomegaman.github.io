@@ -16,7 +16,7 @@ Vou criar um exemplo simples para comprar itens em um supermercado.
 Contextualizando juntamente com o critério citado acima, a função **_buySomething** é chamada sempre que preciso comprar algo. Ela retorna uma promessa de compra, que poderá ser efetivada ou não, o critério que utilizei ali foi simplismente o financeiro, se tem dinheiro compra o item (resolve), senão não irá comprar (reject).
 
 
-```
+```javascript
 
 _buySomething = (val, itemName) => {
 
