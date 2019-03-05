@@ -42,7 +42,7 @@ _buySomething = (val, itemName) => {
 
 ```
 
-Contextualizando juntamente com o critério citado acima, a função **_buySomething** é chamada sempre que preciso comprar algo. Ela retorna uma promessa de compra, que poderá ser efetivada ou não, o critério que utilizei ali foi simplismente o financeiro, se tem dinheiro compra o item (resolve), senão não irá comprar (reject).
+Contextualizando juntamente com o critério citado acima, a função **_buySomething** é chamada sempre que preciso comprar algo. Ela retorna uma promessa de compra, que poderá ser efetivada ou não, o critério que utilizei ali foi simplesmente o financeiro, se tem dinheiro compra o item (resolve), senão não irá comprar (reject).
 
 Note que caso o custo do produto for maior que o dinheiro "em caixa" irá executar o callback **reject** passando uma mensagem de falha, caso contrário, por padrão executa o callback **resolve**;
 
