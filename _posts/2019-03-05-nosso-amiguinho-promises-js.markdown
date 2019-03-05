@@ -10,11 +10,12 @@ Olá, faz um tempinho que "brinquei" com promises js, mais específicamente com 
 ### Wtf, promises?
 
 
-A minha forma de explanar esse recurso é simples, uma promessa retorna algo resolvido ou não e com processamento assíncrono. 
+
+A minha forma de explanar esse recurso é simples, uma promessa manipula de forma amigável o retorno da funcionalidade executada, e, inclusive com processamento assíncrono. 
 
 Vou tentar abaixo via código mostrar a funcionalidade desse recurso simplório mas muito eficaz.
 
-Por padrão uma promessa recebe 2 argumentos, o callback para resolução e outro para tratar a rejeição (erro) caso a promessa não for "cumprida".
+Por padrão uma promessa recebe 2 argumentos, a função para resolução e outra para tratar a rejeição (erro) caso a promessa não for "cumprida".
 
 Não vou entrar nos inúmeros detalhes desse recurso, ao final do post vou deixar links que de forma técnica e bem específica explana todos detalhes do recurso.
 
