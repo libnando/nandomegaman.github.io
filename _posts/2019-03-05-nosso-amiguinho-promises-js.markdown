@@ -102,7 +102,7 @@ você comprou água
 
 Legal né! o/
 
-Novos recursos nativos do ecmascript já está utilizando promises como retorno, como anteriormente citado api fetch e também cache api.
+Novos recursos nativos do ecmascript já estão utilizando promises como retorno, como anteriormente citado api fetch e também cache api.
 
 Um exemplo bacana também pra testar promessas é consumindo requisições do nosso amigo eterno **XMLHttpRequest**, nesse exemplo <a target="_blank" href="https://github.com/mdn/js-examples/blob/master/promises-test/index.html">aqui</a> é simulado o carregamento de uma imagem de forma assíncrona. Recomendo dar uma olhada.
 
