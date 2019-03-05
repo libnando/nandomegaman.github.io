@@ -20,23 +20,76 @@ Contextualizando juntamente com o critério citado acima, a função **_buySomet
 
 _buySomething = (val, itemName) => {
 
-        const _myCash = 10;
+    const _myCash = 10;
 
-        return new Promise(function(resolve, reject){
+    return new Promise(function(resolve, reject){
+        setTimeout(function(){
+            
+            if(val > _myCash){                
+                reject("vocẽ não pode comprar ".concat(itemName));
+            }
 
-            setTimeout(function(){
-
-                if(val > _myCash){                
-                    reject("vocẽ não pode comprar ".concat(itemName));
-                }
-    
-                resolve("você comprou ".concat(itemName));
+            resolve("você comprou ".concat(itemName));
 
             }, 1000);
+        });
+    };
 
+```
+
+Note que caso o custo do produto for maior que o dinheiro "em caixa" irá executar o callback **reject** passando uma mensagem de falha, caso contrário, por padrão executa o callback **resolve**;
+
+Abaixo vamos realizar as compras:
+
+```javascript
+
+const mainDiv = document.getElementById("main");
+    
+    //lista de compras com valor
+    const items = [
+        {val:8, name :"cerveja"},
+        {val:11, name:"brócolis"},
+        {val:5, name:"café"},
+        {val:15, name:"salada"},                
+        {val:2, name:"chocolate"},
+        {val:6, name:"água"}
+    ];
+
+    //percorre a lista
+    items.forEach(e => {
+               
+        //meu elemento html que receberá o resultado da promessa de compra               
+        let lineDiv = document.createElement("div");         
+
+        //executa a compra
+        _buySomething(e.val, e.name)
+        .then((result) => {
+            //caso a compra for concluída
+            lineDiv.innerHTML = result;
+            mainDiv.append(lineDiv);
+        })
+        .catch((err) => {
+            //caso for rejeitada irá cair aqui
+            lineDiv.innerHTML = err;
+            mainDiv.append(lineDiv);
         });
 
-    };
+    });
+
+```
+
+Utilizamos **then** para o estado resolvido da promessa e **catch** para o estado rejeitado da promessa.
+
+O exemplo acima irá desenhar no html o seguinte resultado:
+
+```
+
+você comprou cerveja
+vocẽ não pode comprar brócolis
+você comprou café
+vocẽ não pode comprar salada
+você comprou chocolate
+você comprou água
 
 ```
 
