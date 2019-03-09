@@ -7,42 +7,42 @@ date:  2017-06-04 22:00:00
 
 Minhas anotações relevantes sobre o conteúdo do evento que participei.
 
-###AI: Aplicando inteligência artificial
+### AI: Aplicando inteligência artificial
 
 - BoT Framework (https://dev.botframework.com/)
 - Cognitive Services (https://azure.microsoft.com/pt-br/services/cognitive-services/)
 - Machine Learning (https://docs.microsoft.com/pt-br/azure/machine-learning/machine-learning-what-is-machine-learning)
 - Exemplo palestra : https://github.com/rogeriorrodrigues/vssummit2017
 
-###IOT: Estratégia e Prototipação
+### IOT: Estratégia e Prototipação
 
 - Placa Netduino (http://www.netduino.com/)
 - OBS: O cara debugou essa plaquinha ae, apertou no button da plaquinha, ae parou no breakpoint, depois apertou tecla f10 e de boas acendeu o led. ;)
 - Frase : "Led é o hello world da IOT"
 
-###ASP.NET CORE 1.1 / 2.0
+### ASP.NET CORE 1.1 / 2.0
 
 - Razor Pages (https://docs.microsoft.com/en-us/aspnet/core/razor-pages/)
 
-###.NET Core & Testes Unitários
+### .NET Core & Testes Unitários
 
 - xUnit (http://xunit.github.io/docs/getting-started-dotnet-core)
 - Moq (https://github.com/moq/moq4)
 - NSubstitute (https://github.com/nsubstitute/NSubstitute)
 - Fluent Assertions (https://github.com/fluentassertions/fluentassertions)
 
-###10 Boas práticas usando ASP.NET Core
+### 10 Boas práticas usando ASP.NET Core
 
 - Middlewares (https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
 - https://aspnetcore.slack.com/
 - Exemplo palestra : https://github.com/EduardoPires/10_BoasPraticas_AspNetCore
 
-###Explorando Reactive Extensions
+### Explorando Reactive Extensions
 
 - https://github.com/Reactive-Extensions/Rx.NET
 - Exemplo palestra : https://github.com/bsonnino/ReactiveWpf
 
-###Performance em aplicações Web
+### Performance em aplicações Web
 
 - AMP GOOGLE (https://www.ampproject.org/pt_br/)
 - INSTANT ARTICLE FACEBOOK
@@ -51,7 +51,7 @@ Minhas anotações relevantes sobre o conteúdo do evento que participei.
 - Rancher (http://rancher.com/)
 - Frase : "O que importa para o usuário é a percepção"
 
-###Microservices
+### Microservices
 
 - Microservicos podem ser desenvolvidos em qualquer linguagem para compor uma aplicação, sendo o retorno padrão.
 - São pequenos serviços que de forma totalmente independente completam um sistema. 
