@@ -104,7 +104,7 @@ https://github.com/vitormeriat/presentations/tree/master/07-04-18-deeplarning-cn
 
 - https://github.com/saaskit/saaskit
 
-###AI: O Incrível mundo dos Bots
+### AI: O Incrível mundo dos Bots
 
 - https://www.youtube.com/watch?v=tWtTwCj5NjQ&list=PLNTCwkT5owTREcmB3d7Pu1LTYZl98dRLP
 
