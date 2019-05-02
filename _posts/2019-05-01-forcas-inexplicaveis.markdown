@@ -17,7 +17,7 @@ Ouço um grito forte :
 
 Saio correndo para fora de casa, e, uma imagem me derrubou emocionalmente na hora, eu não tive tempo pra escutar o que meus sentimentos tinham pra me contar. Minha filha estava aos prantos com o rosto todo coberto de sangue.
 
-Não consegui pensar em nada, só abraçar e sentir ela, transmitir segurança e força pra minha pequena. Ver minha filha com rosto todo cheio de sangue foi a pior cena que presenciei na vida pois não sabia o que ela estava sentido e nem a gravidade daquilo.
+Não consegui pensar em nada, só abraçar e sentir ela, transmitir segurança e força pra minha pequena. Ver minha filha com rosto todo cheio de sangue foi a pior cena que presenciei na vida, pois não sabia o que ela estava sentido e nem a gravidade daquilo.
 
 A abracei, fomos ao hospital, fiquei o tempo todo com ela no meu colo grudada em mim. A testa dela estava com uma perfuração, não sabia o que pensar, não conseguia pensar em nada, apenas manter a frieza dos sentimentos e transmitir segurança pra minha pequena.
 
@@ -25,4 +25,4 @@ Com o passar dos minutos, fomos atendidos no hospital, foi realizado pontos no r
 
 Depois de algumas horas voltamos para casa, no conforto do lar e com a certeza das coisas estarem no seu devido lugar, fui tomar um banho pra aliviar a tensão do dia, e lá, eu chorei como nunca havia chorado, desabei em lágrimas, pude enfim assimilar tudo que havia ocorrido durante aquele dia.
 
-Ser pai/mãe é isso, quando tu se sente impotente provar a eles o contrário, demonstrar força e esperança sempre, e de forma "underground" chorar feito uma criança.
+Ser pai/mãe é isso, quando tu se sente impotente, provar a eles o contrário, demonstrar força e esperança sempre, e de forma "underground" chorar feito uma criança.
