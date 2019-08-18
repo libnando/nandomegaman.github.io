@@ -2,7 +2,7 @@
 layout: post
 title:  "Arguments em arrow functions"
 date:   2019-08-18 17:05:00
-tags: [web, js, es6, javascript, arguments, spread-operator]
+tags: [web, js, es6, javascript, arguments, arrow-functions, spread-operator]
 ---
 
 Uma das grandes vantagens do poder js é a flexibilidade e a liberdade que essa linguagem fornece para o desenvolvedor web. 
@@ -11,7 +11,7 @@ Inclusive, recentemente (nem tanto mais) houve uma das maiores features da lingu
 
 ### Vamos ao caso
 
-Poucas vezes precisei recuperar os argumentos de função desconsiderando os parâmetros e utilizando a variável local "arguments", mas dessa vez eu precisava disso e algo deu errado. Como tenho o costume de usar sem moderação "arrow functions" fui pego de surpresa!
+Poucas vezes precisei recuperar os argumentos de função desconsiderando os parâmetros e utilizando a variável local "arguments", mas dessa vez eu precisava disso e algo deu errado. Como tenho o costume de usar sem moderação arrow functions fui pego de surpresa!
 
 Abaixo vou exibir um exemplo do que eu queria fazer:
 
