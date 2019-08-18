@@ -39,7 +39,7 @@ const fnB = function(){
 
 ```
 
-Aí, me restou utilizar um carinha que eu já tinha visto em códigos, mas nunca havia aplicado. Que
+Aí, me restou utilizar um carinha que eu já tinha visto em códigos, mas nunca havia aplicado. 
   
 ### Rest parameter
 
