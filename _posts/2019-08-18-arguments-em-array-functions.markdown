@@ -76,4 +76,4 @@ fnD("o/", 12, 30); // o/,12,[30]
 
 Bacana! 
 
-Só um detalhe para o conceito "..." no js, não confundir com o recurso isolado spread operator, que é utilizado como um auxiliar de variáveis expandido para array, maiores detalhes <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator" target="_blank">aqui</a>.
+Só um adendo para o conceito "..." no js, tem esse carinha aqui "spread operator", que é utilizado como um auxiliar de variáveis expandido os valores para array, maiores detalhes <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator" target="_blank">aqui</a>.
