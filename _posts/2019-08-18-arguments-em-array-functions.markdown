@@ -39,7 +39,7 @@ const fnB = function(){
 
 ```
 
-Aí, me restou utilizar um carinha que eu já tinha visto em códigos, mas nunca havia aplicado.
+Aí, me restou utilizar um carinha que eu já tinha visto em códigos, mas nunca havia aplicado. Que
   
 ### Rest parameter
 
@@ -76,6 +76,4 @@ fnD("o/", 12, 30); // o/,12,[30]
 
 Bacana! 
 
-Só um detalhe para o conceito "..." no js, esse conceito também pode ser utilizado como um auxiliar de variáveis expandido para array, maiores detalhes <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator" target="_blank">aqui</a>.
-
-Por hoje era isso amiguinhos.
+Só um detalhe para o conceito "..." no js, não confundir com o recurso isolado spread operator, que é utilizado como um auxiliar de variáveis expandido para array, maiores detalhes <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator" target="_blank">aqui</a>.
