@@ -13,7 +13,6 @@ Hahahaha, clickbait? Até pode ser... ¬¬ mas a idéia aqui é falarmos breveme
 
 <strike>Na verdade, sobre aborto mesmo, eu dei uns <a href="https://libnando.com/2017/12/principio-da-nao-agressao.html" target="_blank">pitacos aqui</a> faz um tempinho, mais no contexto da filosofia política que eu tenho apreço, libertarianismo. Mas esse não é o caso agora...</strike>
 
-<br />
 
 Hoje na web com "js nativo" (vanilla js) temos o fofinho e clássico 'XMLHttpRequest" que dá conta do recado quando assunto é requisições assíncronas, mas o fato é que a web evoluiu juntamente com a comunidade open source pautando as demandas. Esse recurso é só mais um desses casos (dá uma olhada <a href="https://github.com/whatwg/fetch/issues/27" target="_blank" title="https://github.com/whatwg/fetch/issues/27">aqui nessa issue</a>).
 
