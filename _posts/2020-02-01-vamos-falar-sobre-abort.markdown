@@ -40,9 +40,9 @@ Note que passamos o <b>signal</b> do <b>AbortController</b> por paramêtro para 
 
 Agora vamos a outro exemplo mais "interativo".
 
-<div style="padding:20px; border:1px solid #CCC; max-height:400px; margin-bottom:20px;">
+<div style="padding:5px; border:1px solid #CCC; max-height:400px; margin-bottom:20px;">
 
-<iframe src="https://fetch-abort-demo.glitch.me/"></iframe>
+<iframe src="https://fetch-abort-demo.glitch.me/" style="margin: 0; padding: 0; border: 0;"></iframe>
 
 </div>
 
@@ -52,7 +52,11 @@ Sobre <b>fetch api</b>, caso queira saber um pouco sobre o retorno desse recurso
 
 Basicamente era essa a mensagem amiguinhos, agradeço a presença aqui. o/
 
-<b>Refêrencias</b>: https://developer.mozilla.org/en-US/docs/Web/API/AbortController
+<b>Refêrencias</b>: 
+
+- https://developer.mozilla.org/en-US/docs/Web/API/AbortController
+- https://fetch-abort-demo.glitch.me/
+
 
 <script>
      
