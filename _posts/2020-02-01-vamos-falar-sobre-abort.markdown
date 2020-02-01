@@ -40,7 +40,7 @@ Note que passamos o <b>signal</b> do <b>AbortController</b> por paramêtro para 
 
 Agora vamos a outro exemplo mais "interativo".
 
-<div style="padding:20px; border:1px solid #CCC; max-height:400px;">
+<div style="padding:20px; border:1px solid #CCC; max-height:400px; margin-bottom:20px;">
 
 <button data-for="bstart">Iniciar</button>
 <button data-for="babort" disabled>Abortar</button>
@@ -82,7 +82,7 @@ Basicamente era essa a mensagem amiguinhos, agradeço a presença aqui. o/
           controller = new AbortController();
           const signal = controller.signal;
         
-          const response = await fetch('data', {signal});
+          const response = await fetch('https://fetch-abort-demo.glitch.me/data', {signal});
           
           if (response.body) {
             const reader = response.body.getReader();
