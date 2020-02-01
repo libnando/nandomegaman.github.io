@@ -15,7 +15,7 @@ Hahahaha, clickbait? Até pode ser... ¬¬ mas a idéia aqui é falarmos breveme
 
 <div class="padding:5px;">&nbsp;</div>
 
-Hoje na web com "js nativo" (vanilla js) temos o fofinho e clássico 'XMLHttpRequest" que dá conta do recado quando assunto é requisições assíncronas, mas o fato é que a web evoluiu juntamente com a comunidade open source pautando as demandas. Esse recurso é só mais um desses casos (dá uma olhada <a href="https://github.com/whatwg/fetch/issues/27" target="_blank" title="https://github.com/whatwg/fetch/issues/27">aqui nessa issue</a>).
+Hoje na web com "js nativo" (vanilla js) temos o fofinho e clássico <b>XMLHttpRequest</b> que dá conta do recado quando assunto é requisições assíncronas, mas o fato é que a web evoluiu juntamente com a comunidade open source pautando as demandas. Esse recurso é só mais um desses casos (dá uma olhada <a href="https://github.com/whatwg/fetch/issues/27" target="_blank" title="https://github.com/whatwg/fetch/issues/27">aqui nessa issue</a>).
 
 Então, como estou utilizando o <b>fetch api</b> (que também é um recurso relativamente novo e ainda há pollyfills pra ele) para minhas requisições assíncronas nativas e o meu contexto era básico: Eu precisava colocar uma base simples de tempo limite que a requisição poderia durar, coisa simples né? Nada que um simples timeout do XMLHttpRequest não resolva, mas conforme fui pesquisando o fetch api não há nativamente uma propriedade pra configurar isso, e depois de algumas pesquisas rápidas pra evitar "workarounds" (haha) acabei encontrando esse recurso chamado AbortController que surgiu exatamente pra isso (cancelar requisições ao solicitar).
 
