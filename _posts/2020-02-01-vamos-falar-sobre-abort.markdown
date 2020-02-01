@@ -15,7 +15,7 @@ Hoje na web com "js nativo" (vanilla js) temos o fofinho e clássico 'XMLHttpReq
 
 Então, como estou utilizando o <b>fetch api</b> (que também é um recurso relativamente novo e ainda há pollyfills pra ele) para minhas requisições assíncronas nativas e o meu contexto era básico: Eu precisava colocar uma base simples de tempo limite que a requisição poderia durar, coisa simples né? Nada que um simples timeout do XMLHttpRequest não resolva, mas conforme fui pesquisando o fetch api não há nativamente uma propriedade pra configurar isso, e depois de algumas pesquisas rápidas pra evitar "workarounds" (haha) acabei encontrando esse recurso chamado AbortController que surgiu exatamente pra isso (cancelar requisições ao solicitar).
 
-### Código
+### Vamos brincar
 
 Abaixo um exemplo simples de uso desse recurso, no caso em questão, defino um tempo de 15 segundos para abortar uma requisição.
 
@@ -38,7 +38,13 @@ fetch(url, { signal })
 
 Note que passamos o <b>signal</b> do <b>AbortController</b> por paramêtro para o fetch e juntamente com a function nativa <b>setTimeout</b> definimos um tempo pra abortar. Simples né?
 
-<a href="https://fetch-abort-demo.glitch.me/">Aqui</a> tem um exemplo simples online bem legalzinho pra brincar.
+Agora vamos a outro exemplo mais "interativo".
+
+<div style="max-height:400px; margin-bottom:20px; width:100%;">
+
+<iframe src="https://fetch-abort-demo.glitch.me/" style="margin: 0; padding: 0; border: 0;"></iframe>
+
+</div>
 
 ### Concluindo
 
