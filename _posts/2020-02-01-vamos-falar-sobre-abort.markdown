@@ -38,6 +38,8 @@ fetch(url, { signal })
 
 Note que passamos o <b>signal</b> do <b>AbortController</b> por paramêtro para o fetch e juntamente com a function nativa <b>setTimeout</b> definimos um tempo pra abortar. Simples né?
 
+<a href="https://fetch-abort-demo.glitch.me/">Aqui</a> tem um exemplo simples online bem legalzinho pra brincar.
+
 ### Concluindo
 
 Sobre <b>fetch api</b>, caso queira saber um pouco sobre o retorno desse recurso, que são <b>promisses</b>, dá uma olhada aqui <a href="https://libnando.com/2019/03/promises-precisamos-falar-js.html" target="_blank" title="Promisses, precisamos falar sobre">nesse post</a>, pois explanei aqui sobre isso. =)
