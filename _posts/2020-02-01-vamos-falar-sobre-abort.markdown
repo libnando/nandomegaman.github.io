@@ -42,9 +42,7 @@ Agora vamos a outro exemplo mais "interativo".
 
 <div style="padding:20px; border:1px solid #CCC; max-height:400px; margin-bottom:20px;">
 
-<button data-for="bstart">Iniciar</button>
-<button data-for="babort" disabled>Abortar</button>
-<pre data-for="bout"></pre>
+<iframe src="https://fetch-abort-demo.glitch.me/"></iframe>
 
 </div>
 
@@ -57,58 +55,5 @@ Basicamente era essa a mensagem amiguinhos, agradeço a presença aqui. o/
 <b>Refêrencias</b>: https://developer.mozilla.org/en-US/docs/Web/API/AbortController
 
 <script>
-      const bOut = document.querySelector('[data-for="bout"]');
-      const bStartBtn = document.querySelector('[data-for="bstart"]');
-      const bAbortBtn = document.querySelector('[data-for="babort"]');
-      const decoder = self.TextDecoder && new TextDecoder();
-      let fetching = false;
-      let controller;
-      
-      function log(message) {
-        const txt = document.createTextNode(message);
-        bOut.appendChild(txt);
-      }
-      
-      function badTextDecoder(bytes) {
-        if (decoder) return decoder.decode(bytes, {stream: true});        
-        return bytes.reduce((str, byte) => str + String.fromCharCode(byte), '');
-      }
-      
-      bStartBtn.addEventListener('click', async event => {
-        bStartBtn.disabled = true;
-        bAbortBtn.disabled = false;
-        
-        try {
-          controller = new AbortController();
-          const signal = controller.signal;
-        
-          const response = await fetch('https://fetch-abort-demo.glitch.me/data', {signal});
-          
-          if (response.body) {
-            const reader = response.body.getReader();
-
-            while (true) {
-              const {value} = await reader.read();
-              log(badTextDecoder(value));
-            }
-          }
-          else {
-            log(`Fetching…`);
-            await response.text();
-          }
-          
-        }
-        catch (e) {
-          console.log(e);
-          log(`\nError: ${e.name}: ${e.message}\n`);
-        }
-        
-        bStartBtn.disabled = false;
-        bAbortBtn.disabled = true;
-        
-      });
-      
-      bAbortBtn.addEventListener('click', event => {
-        controller.abort();
-      });
-    </script>
+     
+</script>
