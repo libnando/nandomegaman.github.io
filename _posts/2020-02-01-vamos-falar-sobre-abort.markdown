@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Polêmica! Chegou a hora de falar sobre abort..."
+title:  "Chegou a hora de falar sobre abort..."
 date:   2020-02-02 13:05:00
 tags: [web, js, es6, javascript, fetch-api, promisses, abortcontroller]
 ---
 
 <br />
 
-### AbortController
+### AbortController!
 
 Hahahaha, clickbait? Até pode ser... ¬¬ mas a idéia aqui é falarmos brevemente sobre um recurso interessante e recente da web.
+
+<strike>Na verdade, sobre aborto mesmo, eu dei uns <a href="https://libnando.com/2017/12/principio-da-nao-agressao.html" target="_blank">pitacos aqui</a> faz um tempinho, mais no contexto da filosofia política que eu tenho apreço, libertarianismo. Mas esse não é o caso agora...</strike>
 
 Hoje na web com "js nativo" (vanilla js) temos o fofinho e clássico 'XMLHttpRequest" que dá conta do recado quando assunto é requisições assíncronas, mas o fato é que a web evoluiu juntamente com a comunidade open source pautando as demandas. Esse recurso é só mais um desses casos (dá uma olhada <a href="https://github.com/whatwg/fetch/issues/27" target="_blank" title="https://github.com/whatwg/fetch/issues/27">aqui nessa issue</a>).
 
@@ -40,9 +42,9 @@ Note que passamos o <b>signal</b> do <b>AbortController</b> por paramêtro para 
 
 Agora vamos a outro exemplo mais "interativo".
 
-<div style="max-height:400px; margin-bottom:20px; width:100%;">
+<div style="max-height:400px; margin-bottom:20px; border:1px solid #DDD; padding-left:10px;">
 
-<iframe src="https://fetch-abort-demo.glitch.me/" style="margin: 0; padding: 0; border: 0;"></iframe>
+<iframe src="https://fetch-abort-demo.glitch.me/" style="margin: 0; padding: 0; border: 0; width: 100%;"></iframe>
 
 </div>
 
@@ -54,9 +56,8 @@ Basicamente era essa a mensagem amiguinhos, agradeço a presença aqui. o/
 
 <b>Refêrencias</b>: 
 
-- https://developer.mozilla.org/en-US/docs/Web/API/AbortController
-- https://fetch-abort-demo.glitch.me/
-
+- <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/AbortController">https://developer.mozilla.org/en-US/docs/Web/API/AbortController</a>
+- <a target="_blank" href="https://fetch-abort-demo.glitch.me/">https://fetch-abort-demo.glitch.me/</a>
 
 <script>
      
