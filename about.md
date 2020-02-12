@@ -11,12 +11,6 @@ Desenvolvedor de software, pai, marido, apreciador de cafés e livros.
 
 <ul>
 <li><a target="_blank" href="https://github.com/nandomegaman">Github</a></li>
-<li><a target="_blank" href="https://www.facebook.com/nandomegaman">Facebook</a></li>
 <li><a target="_blank" href="https://twitter.com/nandomegaman">Twitter</a></li>
 <li><a target="_blank" href="https://br.linkedin.com/in/nandomegaman">Linkedin</a></li>
-<li><a target="_blank" href="https://open.spotify.com/user/nandomegaman">Spotify</a></li>
 </ul>
-
-**E-mail**
-
-nando.megaman@gmail.com
