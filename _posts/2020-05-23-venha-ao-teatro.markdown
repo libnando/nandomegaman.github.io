@@ -20,3 +20,4 @@ Sentadinha e em silêncio, Laura vê ali sob seus olhos, sua melhor amiga, sua p
 Meninas de sorte, uma possui a companhia da outra, e assim será, espero que pra sempre.
 
 É nessa frequência que diariamente elas nos ensinam a simplicidade da vida, abstrair cada pequeno momento, cada pequena conquista juntos.
+
