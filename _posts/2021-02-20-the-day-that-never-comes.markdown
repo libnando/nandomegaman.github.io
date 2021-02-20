@@ -12,7 +12,7 @@ Por mais amor e atenção que de forma recíproca há aqui em casa com minhas fi
 
 Mesmo com atividades lúdicas, games e brincadeiras que fizemos aqui em casa, falta chegar "aquele dia".
 
-<b>O dia "que não chega nunca"...</b>
+O dia "que não chega nunca"...
 
 <hr style="margin:0 0 15px 0;" />
 
