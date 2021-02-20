@@ -5,7 +5,7 @@ date:   2021-02-20 11:00:00
 tags: [metallica, família, pais & filhos, vida, rock]
 ---
 
-<div style="padding:5px 0;">&nbsp;</div>
+<div style="padding:2px 0;"></div>
 
 O ano é 2021, estamos entrando no ano II da pandemia pelo Covid-19. A loucura se aproxima, pessoas próximas estão partindo e nossas crianças estão adoecendo psicologicamente.
 
