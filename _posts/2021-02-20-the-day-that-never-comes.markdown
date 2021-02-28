@@ -16,12 +16,14 @@ O dia "que não chega nunca"...
 
 <hr style="margin:0 0 15px 0;" />
 
-Virando a fita aqui e aproveitando a "vibe", metallica sempre foi uma das minhas bandas favoritas, e essa música eu ouvi pra caramba, gosto muito dela. o/
+Mas como tudo na vida, vai passar! Como diz ditado, "depois da tempestade vem o sol".
+
+Virando a fita aqui e aproveitando a "vibe", segue um som foda de uma das minhas bandas favoritas. o/
 
 <iframe allowfullscreen="" frameborder="0" width="420" height="315" src="https://www.youtube.com/embed/dkNfNR1WYMY"></iframe>
 
 <hr style="margin:0 0 15px 0;" />
 
-Sou muito grato a Deus por ter o privilégio de poder viver esse momento conturbado e apocalíptico perto das pessoas que eu amo, que daria a vida por um sorriso.
+Sou muito grato a Deus por ter o privilégio de poder viver esse momento conturbado e apocalíptico perto das pessoas que eu amo, que eu daria a vida por um sorriso.
 
 Boas energias e esperança sempre galera! o/
