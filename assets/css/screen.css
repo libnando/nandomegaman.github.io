@@ -1548,7 +1548,7 @@ body:not(.post-template) .post-title {
     }
 
     .post-date {
-        display: none;
+        /*display: none;*/
     }
 
     .post-template .post-header {
