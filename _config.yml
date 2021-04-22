@@ -1,16 +1,16 @@
 name: Fernando Rosa
 description: O mar arremessa as rochas, mas o tempo nos deixa pedras lapidadas
-meta_description: "Fernando Rosa, Chapecó SC"
+meta_description: "Fernando Rosa"
 permalink: /:year/:month/:title:output_ext
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: 'https://nandomegaman.github.io/'
+baseurl: 'https://libnando.com/'
 domain_name: 'https://libnando.com'
 google_analytics: 'UA-3275109-13'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://nandomegaman.github.io'
+url:            'https://libnando.com'
 author:         'Fernando Rosa'

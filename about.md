@@ -11,7 +11,6 @@ Desenvolvedor de software, pai, marido, apreciador de cafés e livros.
 
 <ul>
 <li><a target="_blank" href="https://github.com/nandomegaman">Github</a></li>
-<li><a target="_blank" href="https://twitter.com/nandomegaman">Twitter</a></li>
 <li><a target="_blank" href="https://br.linkedin.com/in/nandomegaman">Linkedin</a></li>
 </ul>
 
