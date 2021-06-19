@@ -17,6 +17,6 @@ Noites em claro, angústia, desespero, pureza, amor.
 
 O jovem menino já era um pai. 
 
-Parabéns Filha! O mundo é de vocês minhas filhas! o/
+Parabéns Filha! 
 
-Obrigado vida.
+Te amo.
