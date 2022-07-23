@@ -17,9 +17,9 @@ Em seguida você chama a filha nº 2 para informá-la que ela também passará a
 
 ### Pare de ser repetitivo e seja objetivo
 
-Essa analogia simples que descrevi acima foi basicamente para exemplificar casos do cotidiano que involuntariamente ocorrem na vida do desenvolvedor. 
+Essa analogia simples descrita acima foi basicamente para exemplificar casos do cotidiano que involuntariamente ocorrem na vida do desenvolvedor, a maldita <b>repetição</b>.
 
-Ainda sobre a analogia acima, seria bem mais simples chamar as duas filhas uma única vez e proferir a informação para as duas filhas juntas e tudo estaria estupidamente claro, nesse ponto já entro em outro princípio que futuramente abordarei aqui. <b>(KISS - Keep it simple stupid)</b>.
+Ainda sobre a analogia acima, seria bem mais simples chamar as duas filhas uma única vez e proferir a informação para ambas juntas e tudo estaria <b>estupidamente claro</b>, nesse ponto já entro em outro princípio que futuramente abordarei aqui. <b>(KISS - Keep it simple stupid)</b>.
 
 ### Estudo de caso
 
@@ -67,7 +67,7 @@ string SayHelloWelcome() => $"{SayHello()} Welcome!";
 
 ### Não se repita amiguinho
 
-Conforme o exemplo 'mamão com açucar' listado acima, não há menor necessidade de reescrever a mesma palavra 'Hello!' duas vezes, sendo que apenas um método gerando-a já irá atender o outro método. 
+Conforme o exemplo 'mamão com açucar' listado acima, não há menor necessidade de reescrever a mesma palavra 'Hello!' duas vezes, sendo que apenas um método gerando-a já irá atender a outro método. 
 
 Creio que deu pra ter uma boa idéia de poder abstrair a essência desse princípio maroto né! =)
 
