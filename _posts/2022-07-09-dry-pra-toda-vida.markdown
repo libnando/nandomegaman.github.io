@@ -5,7 +5,7 @@ date:   2022-07-09 17:00:00
 tags: [dev, dotnet, c#, code, patterns]
 ---
 
-Olá amiguinhos, hoje vamos falar sobre um princípio maroto com o acrônimo <b>DRY</b>. 
+Olá amiguinhos, hoje vamos falar sobre um princípio maroto com o acrônimo <b>DRY</b> (Don't Repeat Yourself). 
 
 Vou começar explicando esse princípio com uma analogia simples que me veio na cabeça agora.
 
