@@ -15,11 +15,11 @@ Imagine que você tem duas filhas (que é o meu caso) e agora você precisa info
 
 Em seguida você chama a filha nº 2 para informá-la que ela também passará a receber mesada a partir de hoje.
 
+Considerando que o contexto e as 'variáveis' são similares, não seria bem mais simples chamar as duas filhas uma única vez e proferir a informação? Ambas juntas seriam notificadas e tudo estaria <b>estupidamente claro</b>! Nesse ponto já entro em outro princípio que futuramente abordarei aqui. <b>(KISS - Keep it simple stupid)</b>.
+
 ### Pare de ser repetitivo e seja objetivo
 
 Essa analogia simples descrita acima foi basicamente para exemplificar casos do cotidiano que involuntariamente ocorrem na vida do desenvolvedor, a maldita <b>repetição</b>.
-
-Ainda sobre a analogia acima, seria bem mais simples chamar as duas filhas uma única vez e proferir a informação para ambas juntas e tudo estaria <b>estupidamente claro</b>, nesse ponto já entro em outro princípio que futuramente abordarei aqui. <b>(KISS - Keep it simple stupid)</b>.
 
 ### Estudo de caso
 
