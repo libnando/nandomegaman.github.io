@@ -67,6 +67,8 @@ string SayHelloWelcome() => $"{SayHello()} Welcome!";
 
 ### Não se repita amiguinho
 
-Conforme o exemplo 'mamão com açucar' listado acima, não há menor necessidade de reescrever a mesma palavra 'Hello!' duas vezes, sendo que apenas um método gerando-a já irá atender o outro método. Creio que deu pra ter uma boa idéia de poder abstrair a essência desse princípio né! =)
+Conforme o exemplo 'mamão com açucar' listado acima, não há menor necessidade de reescrever a mesma palavra 'Hello!' duas vezes, sendo que apenas um método gerando-a já irá atender o outro método. 
 
-Claro que fui bem simplista e objetivo na minha analogia e exemplo, porém reforço aqui que para mantermos nosso código com qualidade, alta legibilidade e excelência é fundamental estar com esse princípio fresquinho na mente diariamente.
+Creio que deu pra ter uma boa idéia de poder abstrair a essência desse princípio maroto né! =)
+
+Claro que fui bem simplista na minha analogia e exemplo, porém reforço aqui que para mantermos nosso código com qualidade, alta legibilidade e excelência é fundamental estar com esse princípio fresquinho na mente diariamente.
