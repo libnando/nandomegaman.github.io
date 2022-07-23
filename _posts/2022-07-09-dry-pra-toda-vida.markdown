@@ -28,41 +28,41 @@ Abaixo vou compartilhar um exemplo básico de duplicidade de código (em c#) e e
 Basicamente o código irá imprimir na tela: 'Hello!', 'Goodbye!' e 'Hello! Welcome!'.
 
 ```cs
-    //my methods...
+//my methods...
     
-    string SayHello() => "Hello!";
+string SayHello() => "Hello!";
 	
-	string SayGoodbye() => "Goodbye!";    
+string SayGoodbye() => "Goodbye!";    
 	
-	string SayHelloWelcome() => "Hello! Welcome!";
+string SayHelloWelcome() => "Hello! Welcome!";
 	
-    void Prophesy(){
-        //Hello!
-        Console.WriteLine(SayHello());
+void Prophesy(){
+    //Hello!
+    Console.WriteLine(SayHello());
         
-        //Goodbye!
-        Console.WriteLine(SayGoodbye());
+    //Goodbye!
+    Console.WriteLine(SayGoodbye());
 
-        //Hello! Welcome!!
-        Console.WriteLine(SayHelloWelcome());
-    }
+    //Hello! Welcome!!
+    Console.WriteLine(SayHelloWelcome());
+}
 
-    //go go go!
-    Prophesy();
+//go go go!
+Prophesy();
 ```
 
 Agora, abaixo uma pequena refatoração para o código 'não se repetir'.
 
 ```cs
-    //my methods...
+//my methods...
     
-    string SayHello() => "Hello!";
+string SayHello() => "Hello!";
 	
-	string SayGoodbye() => "Goodbye!";    
+string SayGoodbye() => "Goodbye!";    
 	
-	string SayHelloWelcome() => $"{SayHello()} Welcome!";
+string SayHelloWelcome() => $"{SayHello()} Welcome!";
 	
-    //...
+//...
 ```
 
 ### Não se repita amiguinho
