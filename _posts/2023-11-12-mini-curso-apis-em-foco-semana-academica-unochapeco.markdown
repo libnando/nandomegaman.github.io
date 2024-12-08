@@ -16,7 +16,7 @@ Criamos também um projetinho em sala de aula, que aplica padrões e assuntos ab
 
 Foi muito bacana compartilhar um pouco do que sei, com a garotada que está nos semestres iniciais dos cursos de computação.
 
-OBS: O projeto que criamos em sala<a target="_blank" href="https://github.com/libnando/YZCollege">tá aqui</a>.
+OBS: O projetinho criado em sala <a target="_blank" href="https://github.com/libnando/YZCollege">tá aqui</a>.
 
 ![Fernando Rosa - Unochapeco](/assets/images/posts/2023/11/fercurso_1.jpg)
 
