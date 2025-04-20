@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title:  "Ode a minha família"
 date:   2022-05-10 17:00:00
 tags: [família, pais & filhos, vida]
