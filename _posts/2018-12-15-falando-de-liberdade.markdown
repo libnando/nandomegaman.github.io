@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evento - Falando de liberdade"
+title:  "Falando de liberdade - Evento"
 date:   2018-12-15 21:15:00
 tags : [dicas, filosofia, libertarianismo, política, libertas chapecó]
 ---
