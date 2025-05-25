@@ -108,6 +108,6 @@ Um exemplo bacana também pra testar promessas é consumindo requisições do no
 
 Caso queira saber mais sobre promises, a <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise">mozilla</a> nunca decepciona. <a target="_blank" href="https://www.promisejs.org/">Aqui</a> também tem coisas legais sobre promises.
 
-O exemplo do post está no meu **github**, caso queira conferir está <a target="_blank" href="https://github.com/nandomegaman/cute-promises">bem aqui</a>.
+O exemplo do post está no meu **github**, caso queira conferir está <a target="_blank" href="https://github.com/libnando/cute-promises">bem aqui</a>.
 
 Por hoje era isso amiguinhos.

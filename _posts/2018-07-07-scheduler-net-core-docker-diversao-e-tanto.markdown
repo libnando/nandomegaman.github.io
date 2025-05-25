@@ -105,7 +105,7 @@ namespace NomeDaSuaApp
 
 Não vou entrar em detalhes sobre o funcionamento do quartz, mas deixo um link de documentação de um mini tutorial: https://www.quartz-scheduler.net/documentation/quartz-3.x/tutorial/index.html pra dar uma luz para quem nunca utilizou esse maravilhoso package.
 
-OBS: No meu github criei algo mais elaborado referente ao scheduler, com arquivo de configuração, parâmetros, etc https://github.com/nandomegaman/HeyTask
+OBS: No meu github criei algo mais elaborado referente ao scheduler, com arquivo de configuração, parâmetros, etc https://github.com/libnando/HeyTask
 
 Agora, antes se seguir para montar nossa imagem docker, vamos rodar nosso scheduler criado. Volte ao console, dentro do diretório do projeto rode:
 
