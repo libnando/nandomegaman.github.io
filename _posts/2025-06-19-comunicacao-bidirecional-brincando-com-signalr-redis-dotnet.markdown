@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title:  "Comunicação bidirecional com SignalR + Redis (pub/sub) + Worker + Webhook + Webapp em .NET"
+title:  "Comunicação bidirecional com SignalR + Redis (pub/sub) em .NET"
 date:   2025-06-19 17:00:00
 tags: [dev, dotnet, c#, code, signalR, redis]
 ---
