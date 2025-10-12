@@ -22,7 +22,7 @@ Agora a criança não é mais criança, ela conseguiu influência, dinheiro e po
 
 Essa ex-criança conseguiu se “rebelar” e assumir poder por décadas sobre a sociedade que viveu oprimida no passado. 
 
-Agora em sua mansão, a ex-criança vive, com sua família, num condomínio privado, com 30 seguranças, um banheiro de 200m2 e cercada de pessoas que no passado chamava de opressores. Esta, parece não seguir mais tão fielmente seus ideais do passado, que no caso, supostamente a levaram ao poder.
+Em sua mansão, a ex-criança vive, com sua família, num condomínio privado, com 30 seguranças, um banheiro de 200m2 e cercada de pessoas que no passado chamava de opressores. Esta, parece não seguir mais tão fielmente seus ideais do passado, que no caso, supostamente a levaram ao poder.
 
 Agora a ex-criança usa seu poder e influência para além de enriquecer (sobre aqueles que no passado eram as vítimas como ela), pautar temas progressistas, que obviamente visa destruir a família e o cristianismo (por mais que tenha família e vá na missa de vez em quando, sabe né…).
 
