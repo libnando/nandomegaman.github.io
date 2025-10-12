@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title:  "Comunicação bidirecional com SignalR + Redis (pub/sub) + Worker + Webhook + Webapp em .NET"
+title:  "Comunicação bidirecional com SignalR + Redis (pub/sub) em .NET"
 date:   2025-06-19 17:00:00
 tags: [dev, dotnet, c#, code, signalR, redis]
 ---
@@ -10,7 +10,7 @@ Olá meus caros, de vez em quando apareço por aqui... haha
 
 Bem, vamos lá. Hoje vou exemplificar de forma prática uma simples comunicação bidirecional com uma mini aplicação que fiz em .NET usando SinalR + Redis (pub/sub). A aplicação também conta com <b>worker</b> que irá notificar o <b>webhook</b> sobre determinado evento ocorrido em qualquer contexto aleatório. Na outra ponta há uma aplicação web que irá receber e enviar informações das "manipulações" em tela.
 
-A imagem abaixo representa o fluxo esplanado acima.
+A imagem abaixo representa o fluxo explanado acima.
 
 ![YZCollab](/assets/images/posts/2025/06/yzcollab.png)
 
