@@ -5,7 +5,7 @@ title: Fernando Rosa
 
 <img src="https://libnando.com/assets/images/fernandor.jpeg" alt="fernando rosa" style="margin-left:0; border-radius: 50%;" />
 
-Crisão, Desenvolvedor de software, pai, marido, apreciador de cafés e livros.
+Cristão, Desenvolvedor de software, pai, marido, apreciador de cafés e livros.
 
 **Redes Sociais**
 
