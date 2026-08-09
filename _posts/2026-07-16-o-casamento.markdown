@@ -12,7 +12,7 @@ tags : [família, relacionamento, fé, deus, vida, filosofia, conversão]
 
 - **Sei** que **amo** e sou **amado**, que construí uma linda família com amor, zelo e carinho.
 
-- **Admiro** a esposa que tenho, e sou um homem de muita alegria por tê-la ao meu lado.
+- **Admiro** e **amo** demais a esposa que tenho, sou um homem de muita alegria por tê-la ao meu lado.
 
 - **Demorei** muito tempo para entender o real sentido transcendental da vida humana.
 
