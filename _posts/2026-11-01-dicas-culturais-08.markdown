@@ -5,7 +5,7 @@ tags : [cultura, dicas, documentário, literatura, livros]
 date:  2026-11-01 23:00:00
 ---
 
-Voltando com dicas de livros... Boa parte eu já lí, outros estão na fila para serem consumidos ainda.
+Voltando com dicas de livros... Boa parte eu já li, outros ainda estão na fila para serem consumidos.
 
 ### Livros
 
